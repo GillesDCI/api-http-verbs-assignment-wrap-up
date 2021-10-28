@@ -6,10 +6,10 @@ In this assignment we will practice the use of Http verbs (use the right verb fo
 
 + Create your own in-memory database, this can be an array of different cities or countries. The choice is yours. 
 
-+ Create a middleware to display a list of all the different cities in the database 
-+ Create a middleware to add a new list to the in-memory database
-+ Create a middleware to update one city inside the in-memory database. 
-+ Create a middleware to delete one city 
++ Create a middleware to display a list of all the different cities/countries inside the database 
++ Create a middleware to add a new city/country to the in-memory database
++ Create a middleware to update one city/country inside the in-memory database. 
++ Create a middleware to delete one city/country
 
 
 ## Extra 
