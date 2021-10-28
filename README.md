@@ -2,7 +2,7 @@
 
 
 ## API of cities
-In this assignment we will practice the use of Http verbs
+In this assignment we will practice the use of Http verbs (use the right verb for the right purpose)
 
 + Create your own in-memory database, this can be an API of different cities inside countries. 
 
